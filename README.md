@@ -1,6 +1,10 @@
-# OBS MCP Server
+# OBS MCP Server - Enhanced Edition
 
-An MCP server for OBS Studio that provides tools to control OBS via the OBS WebSocket protocol.
+An improved and more reliable MCP server for OBS Studio that provides tools to control OBS via the OBS WebSocket protocol.
+
+🚀 **This is an enhanced version** building upon the excellent foundation from [royshil/obs-mcp](https://github.com/royshil/obs-mcp) with additional reliability improvements and planned AI-driven features.
+
+📋 See [IMPROVEMENTS.md](IMPROVEMENTS.md) for the full enhancement roadmap.
 
 ## Features
 
